@@ -34,4 +34,4 @@ Returns:
 
 ```
 
-[LICENSE (isc)](/LICENSE)
+[LICENSE (WTFPL)](/LICENSE)
