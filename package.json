@@ -28,8 +28,5 @@
   },
   "dependencies": {
     "cmu-pronouncing-dictionary": "^2.0.0"
-  },
-  "jest": {
-    "setupFilesAfterEnv": ["jest-test-performance"]
   }
 }
