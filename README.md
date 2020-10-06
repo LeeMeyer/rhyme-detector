@@ -24,9 +24,15 @@ const detectRyhmes = require("../src/detect-rhymes");
 
 let rhymes = detectRyhmes("overnight delight intertwine emboss mine loss shine boss refine incline");
 
-/*[ [ 'overnight', 'delight' ],
+/*
+
+Returns:
+
+[ [ 'overnight', 'delight' ],
 [ 'intertwine', 'mine', 'shine', 'incline' ],
-[ 'emboss', 'loss', 'boss' ] ]*/
+[ 'emboss', 'loss', 'boss' ] ]
+
+*/
 
 ```
 
