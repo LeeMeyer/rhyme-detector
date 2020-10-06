@@ -1,0 +1,515 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detects rhymes in the man from snowy river 1`] = `
+Array [
+  Array [
+    "there",
+    "where",
+    "hair",
+    "their",
+    "nowhere",
+    "air",
+  ],
+  Array [
+    "at",
+    "that",
+    "wombat",
+  ],
+  Array [
+    "station",
+    "won",
+    "one",
+  ],
+  Array [
+    "for",
+    "timor",
+    "bore",
+    "saw",
+  ],
+  Array [
+    "word",
+    "gathered",
+    "mustered",
+    "answered",
+    "upward",
+    "muttered",
+  ],
+  Array [
+    "had",
+    "lad",
+    "sad",
+    "clad",
+  ],
+  Array [
+    "passed",
+    "past",
+    "fast",
+  ],
+  Array [
+    "around",
+    "pound",
+    "found",
+    "ground",
+    "round",
+    "sound",
+    "bloodhound",
+  ],
+  Array [
+    "from",
+    "come",
+    "bottom",
+  ],
+  Array [
+    "old",
+    "hold",
+    "cold",
+    "household",
+  ],
+  Array [
+    "regret",
+    "let",
+    "yet",
+    "met",
+  ],
+  Array [
+    "got",
+    "ought",
+    "brought",
+    "trot",
+    "hot",
+  ],
+  Array [
+    "away",
+    "fray",
+    "say",
+    "stay",
+    "they",
+    "way",
+    "may",
+    "day",
+    "sway",
+    "today",
+  ],
+  Array [
+    "and",
+    "thousand",
+  ],
+  Array [
+    "he",
+    "fairly",
+    "clancy",
+    "weedy",
+    "pony",
+    "three",
+    "wiry",
+    "fiery",
+    "lofty",
+    "only",
+    "we",
+    "be",
+    "snowy",
+    "every",
+    "many",
+    "fancy",
+    "boldly",
+    "fiercely",
+    "thickly",
+    "any",
+    "very",
+    "see",
+    "stringy",
+    "hardy",
+    "scarcely",
+    "frosty",
+    "story",
+  ],
+  Array [
+    "so",
+    "snow",
+    "go",
+    "overflow",
+    "no",
+    "throw",
+  ],
+  Array [
+    "all",
+    "small",
+  ],
+  Array [
+    "to",
+    "who",
+    "few",
+    "do",
+    "you",
+    "too",
+    "view",
+    "into",
+    "flew",
+    "grew",
+    "through",
+    "drew",
+    "two",
+  ],
+  Array [
+    "tried",
+    "ride",
+    "beside",
+    "side",
+    "stride",
+    "wide",
+    "hillside",
+  ],
+  Array [
+    "noted",
+    "blood",
+  ],
+  Array [
+    "riders",
+    "orders",
+    "others",
+  ],
+  Array [
+    "stations",
+    "runs",
+  ],
+  Array [
+    "near",
+    "fear",
+    "cheer",
+    "clear",
+  ],
+  Array [
+    "far",
+    "are",
+  ],
+  Array [
+    "homestead",
+    "thoroughbred",
+    "tread",
+    "head",
+    "said",
+    "bred",
+    "overhead",
+    "bed",
+  ],
+  Array [
+    "overnight",
+    "delight",
+    "white",
+    "bright",
+    "slight",
+    "right",
+    "sight",
+    "might",
+    "midnight",
+  ],
+  Array [
+    "bushmen",
+    "when",
+    "then",
+  ],
+  Array [
+    "love",
+    "of",
+  ],
+  Array [
+    "riding",
+    "wing",
+    "ring",
+  ],
+  Array [
+    "horse",
+    "racehorse",
+  ],
+  Array [
+    "battle",
+    "well",
+    "tell",
+  ],
+  Array [
+    "his",
+    "is",
+    "breezes",
+  ],
+  Array [
+    "pile",
+    "while",
+  ],
+  Array [
+    "cup",
+    "up",
+    "gallop",
+  ],
+  Array [
+    "man",
+    "can",
+    "ran",
+  ],
+  Array [
+    "but",
+    "summit",
+  ],
+  Array [
+    "could",
+    "would",
+    "stood",
+    "good",
+  ],
+  Array [
+    "him",
+    "dim",
+  ],
+  Array [
+    "wherever",
+    "ever",
+    "never",
+    "other",
+    "were",
+    "spur",
+    "cur",
+  ],
+  Array [
+    "lend",
+    "friend",
+    "end",
+  ],
+  Array [
+    "hand",
+    "stand",
+    "grand",
+  ],
+  Array [
+    "horseman",
+    "horsemen",
+  ],
+  Array [
+    "reins",
+    "plains",
+  ],
+  Array [
+    "beast",
+    "least",
+  ],
+  Array [
+    "like",
+    "strike",
+  ],
+  Array [
+    "undersized",
+    "prized",
+  ],
+  Array [
+    "touch",
+    "such",
+  ],
+  Array [
+    "by",
+    "die",
+    "eye",
+    "try",
+    "ply",
+    "high",
+    "sky",
+  ],
+  Array [
+    "tough",
+    "rough",
+    "enough",
+  ],
+  Array [
+    "just",
+    "must",
+  ],
+  Array [
+    "in",
+    "even",
+  ],
+  Array [
+    "proud",
+    "cowed",
+  ],
+  Array [
+    "still",
+    "will",
+    "till",
+    "hill",
+  ],
+  Array [
+    "stop",
+    "hop",
+  ],
+  Array [
+    "those",
+    "echoes",
+  ],
+  Array [
+    "hills",
+    "spills",
+  ],
+  Array [
+    "waited",
+    "bid",
+  ],
+  Array [
+    "warrant",
+    "torrent",
+  ],
+  Array [
+    "wanted",
+    "undaunted",
+  ],
+  Array [
+    "steep",
+    "keep",
+    "deep",
+    "sweep",
+  ],
+  Array [
+    "own",
+    "alone",
+  ],
+  Array [
+    "make",
+    "take",
+  ],
+  Array [
+    "home",
+    "roam",
+    "foam",
+  ],
+  Array [
+    "between",
+    "seen",
+  ],
+  Array [
+    "full",
+    "pull",
+  ],
+  Array [
+    "went",
+    "sent",
+    "descent",
+  ],
+  Array [
+    "clump",
+    "jump",
+  ],
+  Array [
+    "brow",
+    "now",
+  ],
+  Array [
+    "rode",
+    "followed",
+  ],
+  Array [
+    "place",
+    "face",
+    "pace",
+  ],
+  Array [
+    "swung",
+    "among",
+  ],
+  Array [
+    "lash",
+    "dash",
+    "ash",
+  ],
+  Array [
+    "black",
+    "back",
+    "track",
+  ],
+  Array [
+    "breath",
+    "death",
+  ],
+  Array [
+    "slip",
+    "hip",
+  ],
+  Array [
+    "feet",
+    "seat",
+  ],
+  Array [
+    "landed",
+    "handed",
+  ],
+  Array [
+    "mute",
+    "pursuit",
+  ],
+  Array [
+    "reveals",
+    "heels",
+  ],
+  Array [
+    "heads",
+    "beds",
+  ],
+  Array [
+    "raise",
+    "blaze",
+  ],
+]
+`;
+
+exports[`Detects rhymes in untitled drowning poem 1`] = `
+Array [
+  Array [
+    "sea",
+    "body",
+    "me",
+    "fatality",
+    "reality",
+  ],
+  Array [
+    "hover",
+    "lover",
+    "her",
+  ],
+  Array [
+    "embracing",
+    "pacing",
+  ],
+  Array [
+    "enters",
+    "waters",
+  ],
+  Array [
+    "tongue",
+    "lung",
+  ],
+  Array [
+    "start",
+    "distort",
+  ],
+  Array [
+    "flailing",
+    "trailing",
+  ],
+  Array [
+    "milestone",
+    "alone",
+    "own",
+  ],
+  Array [
+    "buoyed",
+    "need",
+  ],
+  Array [
+    "near",
+    "disappear",
+  ],
+  Array [
+    "will",
+    "still",
+  ],
+  Array [
+    "implore",
+    "for",
+  ],
+]
+`;

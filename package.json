@@ -1,0 +1,35 @@
+{
+  "name": "rhyme-detector",
+  "version": "1.0.0",
+  "description": "Finds any groups of rhyming words within a given string and returns them as a list of arrays",
+  "source": "src/detect-rhymes.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "microbundle -f cjs",
+    "dev": "microbundle watch",
+    "test": "jest"
+  },
+  "keywords": [
+    "rhyme",
+    "string",
+    "manipulation",
+    "phonemes",
+    "rhyming",
+    "rap",
+    "poetry",
+    "poem"
+  ],
+  "author": "Lee Meyer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "jest-test-performance": "^1.0.1",
+    "microbundle": "^0.12.4"
+  },
+  "dependencies": {
+    "cmu-pronouncing-dictionary": "^2.0.0"
+  },
+  "jest": {
+    "setupFilesAfterEnv": ["jest-test-performance"]
+  }
+}
