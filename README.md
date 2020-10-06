@@ -20,7 +20,7 @@ yarn add rhyme-dictionary
 
 ```js
 
-const detectRyhmes = require("../src/detect-rhymes");
+const detectRyhmes = require("detect-rhymes");
 
 let rhymes = detectRyhmes("overnight delight intertwine emboss mine loss shine boss refine incline");
 
