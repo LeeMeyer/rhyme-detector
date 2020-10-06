@@ -34,4 +34,4 @@ Returns:
 
 ```
 
-[LICENSE (ISC)](/LICENSE)
+[LICENSE (isc)](/LICENSE)
