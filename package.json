@@ -1,7 +1,7 @@
 {
   "name": "rhyme-detector",
-  "version": "1.0.0",
-  "description": "Finds any groups of rhyming words within a given string and returns them as a list of arrays",
+  "version": "1.0.3",
+  "description": "Find all the rhyming words within any poem, fast.",
   "source": "src/detect-rhymes.js",
   "main": "dist/index.js",
   "scripts": {
@@ -29,5 +29,7 @@
   "dependencies": {
     "cmu-pronouncing-dictionary": "^2.0.0"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "repository": {
+    "url": "https://github.com/LeeMeyer/rhyme-detector"
+  }
 }

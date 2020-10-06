@@ -1,6 +1,6 @@
 # rhyme-detector
 
-✍️ Find all the rhymes in any text, fast.
+🕵 Find all the rhymes in any poem, fast.
 
 ## Dependencies
 
