@@ -11,9 +11,9 @@ Uses the [CMU pronouncing dictionary](https://www.npmjs.com/package/cmu-pronounc
 Using npm:
 
 ```console
-npm install rhyme-dictionary --save
+npm install rhyme-detector --save
 # or
-yarn add rhyme-dictionary
+yarn add rhyme-detector
 ```
 
 ## Usage

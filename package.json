@@ -1,6 +1,6 @@
 {
   "name": "rhyme-detector",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find all the rhyming words within any poem, fast.",
   "source": "src/detect-rhymes.js",
   "main": "dist/index.js",
@@ -23,11 +23,11 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.4.2",
-    "jest-test-performance": "^1.0.1",
     "microbundle": "^0.12.4"
   },
   "dependencies": {
-    "cmu-pronouncing-dictionary": "^2.0.0"
+    "cmu-pronouncing-dictionary": "^2.0.0",
+    "rhyme-detector": "^1.0.4"
   },
   "repository": {
     "url": "https://github.com/LeeMeyer/rhyme-detector"
