@@ -1,6 +1,6 @@
 {
   "name": "rhyme-detector",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Find all the rhyming words within any poem, fast.",
   "source": "src/detect-rhymes.js",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "poem"
   ],
   "author": "Lee Meyer",
-  "license": "ISC",
+  "license": "WTFPL",
   "devDependencies": {
     "jest": "^26.4.2",
     "microbundle": "^0.12.4"
