@@ -1,6 +1,6 @@
 {
   "name": "rhyme-detector",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Find all the rhyming words within any poem, fast.",
   "source": "src/detect-rhymes.js",
   "main": "dist/index.js",

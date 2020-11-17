@@ -1,5 +1,5 @@
 var cmuDictionary = require('cmu-pronouncing-dictionary');
-var customDictionary = require('./custom-dictionary.json');
+var customDictionary = require('./custom-dictionary');
 
 
 module.exports = function(message) {
