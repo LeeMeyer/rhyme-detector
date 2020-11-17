@@ -48,8 +48,8 @@ test("should detect long and short rhyming words", () => {
 });
 
 test("should rhyme friendliness with mess", () => {
-    let rhymes = detectRyhmes("friendliness mess you're for noobs I guess. and your loser with allow more pests to deploy a mess");
-    expect(rhymes.length).toBe(2);
+    let rhymes = detectRyhmes("yo vue JS! friendliness mess you're for noobs I guess. account. and your loser with allow more pests to deploy a mess. unmount!");
+    expect(rhymes.length).toBe(4);
 });
 
 test('man from snowy river rhyme detection should run faster than 200ms', async () => {

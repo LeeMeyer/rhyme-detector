@@ -1,4 +1,6 @@
 var cmuDictionary = require('cmu-pronouncing-dictionary');
+var customDictionary = require('./custom-dictionary.json');
+
 
 module.exports = function(message) {
 
@@ -12,7 +14,7 @@ module.exports = function(message) {
     {
         if (word.length > 1 && noiseWords.indexOf(word.toLowerCase()) === -1)
         {
-            let phonemes = cmuDictionary[word.toLowerCase()];
+            let phonemes = cmuDictionary[word.toLowerCase()] || customDictionary[word.toLowerCase()];
 
             if (phonemes) {
                 let santizedPhonemes = phonemes.replace(/\d/g,'').replace(/UW R$/, 'AO').replace(/UH R$/, 'AO').replace(/AO R$/, 'AO').replace(/EH L/, 'AH L').replace(/AA/g, 'AO').replace(/IH S$/, 'EH S');
